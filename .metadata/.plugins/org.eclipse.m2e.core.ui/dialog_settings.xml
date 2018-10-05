@@ -27,6 +27,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\laikrish\Downloads\simplerestapp-master"/>
+			<item value="C:\day7\productapp"/>
 			<item value="C:\Users\laikrish\Documents\SpringBooot\productapp"/>
 		</list>
 		<list key="projectNameTemplate">
